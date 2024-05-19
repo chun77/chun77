@@ -9,4 +9,4 @@
 - 😄 Pronouns: Angelina Wang
 - 🎹 Hobby: I am a member in the Duke badminton club🏸️. I play the piano in my spare time.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chn0318&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chun77&theme=dark&layout=compact)
