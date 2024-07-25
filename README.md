@@ -1,4 +1,4 @@
-### Hi there 👋, I am Zichun Wang (Angelina Wang)
+### Hi there 👋, I am Zichun(Angelina) Wang
 
 - 🏫 I’m currently a master student at **Duke University**, majoring in **Electrical and Computer Engineering**.
   - Expected graduation: between **Dec 2024 and May 2025**
