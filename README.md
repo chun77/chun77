@@ -2,7 +2,7 @@
 
 - 🏫 I’m currently a master student at **Duke University**, majoring in **Electrical and Computer Engineering**.
   - Expected graduation: between **Dec 2024 and May 2025**
-- 💼 I’m working as a **Software Development Engineer (SDE) Summer Intern** at **DataVisor** in Mountain View, CA.
+- 💼 I worked as a **Software Development Engineer (SDE) Summer Intern** at **DataVisor** in Mountain View, CA this summer.
   - I am on the **Infra team**, playing a pivotal role in the full-stack process of aligning our internal tool with the new **JumpServer** version.
   - We use **Java Spring Boot** for backend, **Vue** for frontend, and **Kubernetes** for running large-scale projects.
 - 🌱 I’m currently learning **Django**, **Hadoop**, and **Parallel Programming**.
