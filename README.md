@@ -10,6 +10,6 @@
 - 📫 How to reach me: zichunwang733@gmail.com
 - 😄 Pronouns: **Angelina Wang**
 - 🎹 Hobby: I am a member of the **Duke Badminton Club**🏸️ and I play the piano in my spare time.
-- 🚀 I am currently looking for **2025 New Grad SDE/PM roles** and **2025 Spring Co-op opportunities**
+- 🚀 I am currently looking for **2025 New Grad SDE/PM roles**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chun77&theme=dark&layout=compact)
